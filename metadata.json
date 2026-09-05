@@ -2,5 +2,7 @@
   "name": "Coleta Pneus Recapadora",
   "description": "Aplicativo profissional de coleta de dados e diagnóstico técnico-comercial de pneus e frotas para recapadoras e reformadoras de pneus.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
